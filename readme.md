@@ -1,3 +1,9 @@
+# Gibberify-Centered Fork
+
+The purpose of this fork is to provide easier access to these dictionaries to 
+[Gibberify](https://github.com/brisvag/gibberify).
+
+
 # dictionaries
 
 Accessible and easily installable [hunspell][] dictionaries.  Useful with
@@ -28,7 +34,7 @@ In total 68 dictionaries are provided.
 | [`dictionary-el-polyton`](dictionaries/el-polyton) | Modern Greek (Polytonic Greek) | [GPL-3.0](dictionaries/el-polyton/license) |
 | [`dictionary-en-au`](dictionaries/en-AU) | English (Australia) | [(MIT AND BSD)](dictionaries/en-AU/license) |
 | [`dictionary-en-ca`](dictionaries/en-CA) | English (Canada) | [(MIT AND BSD)](dictionaries/en-CA/license) |
-| [`dictionary-en-gb`](dictionaries/en-GB) | English (United Kingdom) | [(MIT AND BSD)](dictionaries/en-GB/license) |
+| [`dictionary-en-gb`](dictionaries/en) | English (United Kingdom) | [(MIT AND BSD)](dictionaries/en/license) |
 | [`dictionary-en-us`](dictionaries/en-US) | English (United States) | [(MIT AND BSD)](dictionaries/en-US/license) |
 | [`dictionary-en-za`](dictionaries/en-ZA) | English (South Africa) | [LGPL-2.1](dictionaries/en-ZA/license) |
 | [`dictionary-eo`](dictionaries/eo) | Esperanto | [GPL-2.0](dictionaries/eo/license) |
@@ -79,7 +85,7 @@ In total 68 dictionaries are provided.
 | [`dictionary-sv`](dictionaries/sv) | Swedish | [LGPL-3.0](dictionaries/sv/license) |
 | [`dictionary-tk`](dictionaries/tk) | Turkmen | [Apache-2.0](dictionaries/tk/license) |
 | [`dictionary-tlh`](dictionaries/tlh) | Klingon (or tlhIngan-Hol) | [Apache-2.0](dictionaries/tlh/license) |
-| [`dictionary-tlh-latn`](dictionaries/tlh-Latn) | Klingon (or tlhIngan-Hol, Latin) | [Apache-2.0](dictionaries/tlh-Latn/license) |
+| [`dictionary-tlh-latn`](dictionaries/tlh) | Klingon (or tlhIngan-Hol, Latin) | [Apache-2.0](dictionaries/tlh/license) |
 | [`dictionary-tr`](dictionaries/tr) | Turkish | MIT |
 | [`dictionary-uk`](dictionaries/uk) | Ukrainian | [GPL-3.0](dictionaries/uk/license) |
 | [`dictionary-vi`](dictionaries/vi) | Vietnamese | [GPL-2.0](dictionaries/vi/license) |

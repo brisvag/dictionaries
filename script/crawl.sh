@@ -515,7 +515,7 @@ generate "en-CA" "english-canadian" \
   "en_CA.dic" "UTF-8" \
   "en_CA.aff" "UTF-8" \
   "(MIT AND BSD)" "README_en_CA.txt" "UTF-8"
-generate "en-GB" "english-gb" \
+generate "en" "english-gb" \
   "en_GB-ise.dic" "UTF-8" \
   "en_GB-ise.aff" "UTF-8" \
   "(MIT AND BSD)" "README_en_GB-ise.txt" "UTF-8"
@@ -723,7 +723,7 @@ generate "tlh" "klingon" \
   "klingon-master/generated/tlh.dic" "UTF-8" \
   "klingon-master/generated/tlh.aff" "UTF-8" \
   "Apache-2.0" "klingon-master/LICENSE" "UTF-8"
-generate "tlh-Latn" "klingon" \
+generate "tlh" "klingon" \
   "klingon-master/generated/tlh_Latn.dic" "UTF-8" \
   "klingon-master/generated/tlh_Latn.aff" "UTF-8" \
   "Apache-2.0" "klingon-master/LICENSE" "UTF-8"
